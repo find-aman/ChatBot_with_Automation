@@ -1,0 +1,16 @@
+C:\Users\Aman Gupta\source\repos\DailogFlow_UiPath_Connector\DailogFlow_UiPath_Connector\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Aman Gupta\source\repos\DailogFlow_UiPath_Connector\DailogFlow_UiPath_Connector\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Aman Gupta\source\repos\DailogFlow_UiPath_Connector\DailogFlow_UiPath_Connector\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Aman Gupta\source\repos\DailogFlow_UiPath_Connector\DailogFlow_UiPath_Connector\bin\Debug\netcoreapp2.1\DailogFlow_UiPath_Connector.deps.json
+C:\Users\Aman Gupta\source\repos\DailogFlow_UiPath_Connector\DailogFlow_UiPath_Connector\bin\Debug\netcoreapp2.1\DailogFlow_UiPath_Connector.runtimeconfig.json
+C:\Users\Aman Gupta\source\repos\DailogFlow_UiPath_Connector\DailogFlow_UiPath_Connector\bin\Debug\netcoreapp2.1\DailogFlow_UiPath_Connector.runtimeconfig.dev.json
+C:\Users\Aman Gupta\source\repos\DailogFlow_UiPath_Connector\DailogFlow_UiPath_Connector\bin\Debug\netcoreapp2.1\DailogFlow_UiPath_Connector.dll
+C:\Users\Aman Gupta\source\repos\DailogFlow_UiPath_Connector\DailogFlow_UiPath_Connector\obj\Debug\netcoreapp2.1\DailogFlow_UiPath_Connector.csprojAssemblyReference.cache
+C:\Users\Aman Gupta\source\repos\DailogFlow_UiPath_Connector\DailogFlow_UiPath_Connector\obj\Debug\netcoreapp2.1\DailogFlow_UiPath_Connector.RazorAssemblyInfo.cache
+C:\Users\Aman Gupta\source\repos\DailogFlow_UiPath_Connector\DailogFlow_UiPath_Connector\obj\Debug\netcoreapp2.1\DailogFlow_UiPath_Connector.RazorAssemblyInfo.cs
+C:\Users\Aman Gupta\source\repos\DailogFlow_UiPath_Connector\DailogFlow_UiPath_Connector\obj\Debug\netcoreapp2.1\DailogFlow_UiPath_Connector.AssemblyInfoInputs.cache
+C:\Users\Aman Gupta\source\repos\DailogFlow_UiPath_Connector\DailogFlow_UiPath_Connector\obj\Debug\netcoreapp2.1\DailogFlow_UiPath_Connector.AssemblyInfo.cs
+C:\Users\Aman Gupta\source\repos\DailogFlow_UiPath_Connector\DailogFlow_UiPath_Connector\obj\Debug\netcoreapp2.1\DailogFlow_UiPath_Connector.RazorTargetAssemblyInfo.cache
+C:\Users\Aman Gupta\source\repos\DailogFlow_UiPath_Connector\DailogFlow_UiPath_Connector\bin\Debug\netcoreapp2.1\DailogFlow_UiPath_Connector.pdb
+C:\Users\Aman Gupta\source\repos\DailogFlow_UiPath_Connector\DailogFlow_UiPath_Connector\obj\Debug\netcoreapp2.1\DailogFlow_UiPath_Connector.dll
+C:\Users\Aman Gupta\source\repos\DailogFlow_UiPath_Connector\DailogFlow_UiPath_Connector\obj\Debug\netcoreapp2.1\DailogFlow_UiPath_Connector.pdb
