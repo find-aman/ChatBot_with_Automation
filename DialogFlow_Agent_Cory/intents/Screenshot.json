@@ -1,0 +1,44 @@
+{
+  "id": "584598af-88eb-4026-a2d2-9a31164a72ae",
+  "name": "Screenshot",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Screenshot",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "51ea2d5b-b8b8-43f7-884a-2ce4e1c4dc26",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "ss_num",
+          "value": "$ss_num",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "enter screenshot number"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
